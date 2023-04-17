@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class CardinalPoints {
+public enum CardinalPoints {
+NORTH, EAST, SOUTH, WEST
+
 }
